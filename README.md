@@ -1,2 +1,2 @@
-# three-cube-orbit-controls-sample
+# three-line-example
 Created with CodeSandbox
